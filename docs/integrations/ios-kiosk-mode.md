@@ -19,7 +19,7 @@ Kiosk mode is iOS-only. Android users can achieve a similar setup with the [Home
 
 ## Requirements
 
-- An iPhone or iPad with the Home Assistant Companion app installed.
+- An iPhone or iPad with the Home Assistant Companion app installed. (Minimum version: `2026.4.0`)
 - To hide the sidebar and top bar controls, a version of Home Assistant whose frontend supports kiosk mode.
 - Face ID, Touch ID, or a device passcode set up on the device, if you want to require authentication to open the kiosk settings.
 
